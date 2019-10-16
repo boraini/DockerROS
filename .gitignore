@@ -1,0 +1,4 @@
+workspace/*
+!workspace/src/
+workspace/src/*
+!workspace/src/keep/
