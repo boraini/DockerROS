@@ -1,0 +1,2 @@
+Host *
+  XAuthLocation /opt/X11/bin/xauth
